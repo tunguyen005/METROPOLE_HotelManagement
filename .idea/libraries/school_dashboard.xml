@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="school-dashboard">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/java-swing-school-management-dashboard-main/java-swing-school-management-dashboard-main/school-dashboard/dist/school-dashboard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/java-swing-school-management-dashboard-main/java-swing-school-management-dashboard-main/school-dashboard/src" />
+    </SOURCES>
+  </library>
+</component>
